@@ -5,8 +5,9 @@ I'm a *computational cognitive scientist* in the Computational Modeling Lab at [
 - Natural Language Processing
 - Cognitive Science
 - Computational Modeling
-- Metascience
-- Machine Learning for Language Production
+- Psycholinguistics
+- Metascience & Publication Bias
+
 
 ## 📫 Feel free to contact me
 Email: louis.schiekiera [at] hu-berlin.de
