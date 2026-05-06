@@ -10,6 +10,6 @@ Check out my homepage at [schiekiera.github.io](https://schiekiera.github.io/) o
 
 ### Find me elsewhere
 - 🌐 [Homepage](https://schiekiera.github.io/)
-- 📄 [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.de/citations?user=lgvgx7IAAAAJ))
+- 📄 [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.de/citations?user=lgvgx7IAAAAJ)
 - 🆔 [ORCID](https://orcid.org/0000-0003-0082-175X)
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/louis-schiekiera/))
+- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/louis-schiekiera/)
