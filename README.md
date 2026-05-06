@@ -1,6 +1,6 @@
 ## Hi, I'm Louis 👋
 
-I'm a researcher working at the intersection of [[language models](https://schiekiera.github.io//publications/?tag=llm), [psycholinguistics](https://schiekiera.github.io//publications/?tag=psycholinguistics), and [metascience](https://schiekiera.github.io//publications/?tag=metascience).
+I'm a researcher working at the intersection of [language models](https://schiekiera.github.io//publications/?tag=llm), [psycholinguistics](https://schiekiera.github.io//publications/?tag=psycholinguistics), and [metascience](https://schiekiera.github.io//publications/?tag=metascience).
 
 - **Job:** Researcher, [Computational Modeling Lab, HU Berlin](https://www.psychology.hu-berlin.de/en/prof/emmy/kompmod/kompmod)
 - **Education:** Third-year PhD candidate, [FU Berlin](https://www.ewi-psy.fu-berlin.de/en/psychologie/arbeitsbereiche/klinisch_psychologische_intervention/mitarbeiter/lschiekiera/index.html)
